@@ -1,8 +1,7 @@
+# Environment and secrets
 .env
 .env.*
 !.env.example
-__pycache__/
-node_modules/
-.venv/
-dist/
-build/
+
+# Temporary files
+tmp/
