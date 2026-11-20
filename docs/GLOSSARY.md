@@ -197,11 +197,34 @@ The ball's location along the football field.
 
 **Flag**:
 A rule violation in an NFL Game, within this project's vocabulary.
-_Avoid_: Foul.
+_Avoid_: Foul; flag as a name for any marker or status.
+
+**Flag type**:
+One of the named kinds of rule violation that a Flag can be, such as Holding or False start.
+_Avoid_: Foul, penalty name.
 
 **Penalty**:
-The prescribed consequence of a Flag, distinct from whether that consequence is accepted, declined, or otherwise resolved.
-_Avoid_: Flag when referring to the consequence rather than the violation.
+The prescribed consequence of a Flag type for one offending side, distinct from whether that consequence is accepted, declined, or otherwise resolved.
+_Avoid_: Flag when referring to the consequence rather than the violation; variant, catalogue entry, foul.
+
+**Enforcement Spot**:
+The Field Position from which a Penalty's yardage is measured.
+_Avoid_: Spot foul.
+
+**Tack-on Enforcement**:
+Enforcement of a Penalty from the end of the run or Return, keeping the yards gained.
+_Avoid_: Tack-on flag, end-of-run enforcement.
+
+**Offsetting Penalties**:
+Opposing Penalties on the same Play that cancel each other, so that the Down is replayed.
+_Avoid_: Offset branch, double foul.
+
+**Penalty Option**:
+One combination of accepting and declining the Penalties of a Play's Flags that the Game Rules permit.
+_Avoid_: Candidate, alternative, choice.
+
+**Penalty Decision**:
+The selection of one Penalty Option, made on behalf of the team entitled to it.
 
 ## Simulation vocabulary
 

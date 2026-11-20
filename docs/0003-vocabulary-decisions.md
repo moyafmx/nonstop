@@ -1,6 +1,6 @@
 # Vocabulary decisions
 
-This document records the naming conventions and scope decisions agreed during vocabulary discovery. [GLOSSARY.md](../GLOSSARY.md) contains the definitions. These decisions refine the provisional language in [the initial vocabulary](0002-initial-vocabulary.md).
+This document records the naming conventions and scope decisions agreed during vocabulary discovery. [GLOSSARY.md](GLOSSARY.md) contains the definitions. These decisions refine the provisional language in [the initial vocabulary](0002-initial-vocabulary.md).
 
 ## Naming conventions
 
